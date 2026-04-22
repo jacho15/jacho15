@@ -4,8 +4,8 @@ Software engineer interested in **high performance C++**, **low-level systems**,
 
 ## 🔗 Links
 
-- 🌐 **Personal Website:** [jacob-a-cho.com](https://jacob-a-cho.com/)
-- 💼 **LinkedIn:** [jacob-a-cho](https://www.linkedin.com/in/jacob-a-cho/)
+- **Personal Website:** [jacob-a-cho.com](https://jacob-a-cho.com/)
+- **LinkedIn:** [jacob-a-cho](https://www.linkedin.com/in/jacob-a-cho/)
 
 ## 💻 Experience
 
@@ -15,9 +15,9 @@ Software engineer interested in **high performance C++**, **low-level systems**,
 
 ## 🏆 Hackathon Wins
 
-- 🥇 **1st Overall** — SoCal Claude Builder Club Hackathon
-- 🥇 **1st Place, DAIN AI Track** — SoCal Tech Week 2024
+- **1st Overall** — SoCal Claude Builder Club Hackathon
+- **1st Place, DAIN AI Track** — SoCal Tech Week 2024
 
 ---
 
-*Always open to connecting — feel free to reach out!*
+*Always open to connecting, feel free to reach out!*
