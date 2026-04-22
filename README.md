@@ -11,7 +11,7 @@ Software engineer interested in **high performance C++**, **low-level systems**,
 
 - **Software Engineer** @ Capital One *(Incoming)*
 - **Software Engineer** @ Coursistant
-- **Software Engineer** @ ADRF
+- **Software Engineer** @ Advanced RF Technologies
 
 ## 🏆 Hackathon Wins
 
