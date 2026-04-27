@@ -15,7 +15,7 @@ Software engineer interested in **high performance C++**, **low-level systems**,
 
 ## 🏆 Hackathon Wins
 
-- **1st Place IFM AI & 1st Place MLH Vultr** — HackTech by Caltech 2026
+- **1st IFM K2 AI & 1st MLH Vultr** — HackTech by Caltech 2026
 - **1st Overall** — SoCal Claude Builder Club Hackathon
 - **1st Place, DAIN AI Track** — SoCal Tech Week 2024
 
