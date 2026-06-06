@@ -9,7 +9,7 @@ Software engineer interested in **high performance C++**, **low-level systems**,
 
 ## 💻 Experience
 
-- **Software Engineer** @ Capital One *(Incoming)*
+- **Software Engineer** @ Capital One
 - **Software Engineer** @ Coursistant
 - **Software Engineer** @ Advanced RF Technologies
 
