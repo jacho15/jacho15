@@ -6,6 +6,7 @@ Software engineer interested in **high performance C++**, **low-level systems**,
 
 - **Personal Website:** [jacob-a-cho.com](https://jacob-a-cho.com/)
 - **LinkedIn:** [jacob-a-cho](https://www.linkedin.com/in/jacob-a-cho/)
+- **Devpost:** [jacho15](https://devpost.com/jacho15)
 
 ## 💻 Experience
 
