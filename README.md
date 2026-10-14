@@ -1,25 +1,32 @@
+
 # Hi, I'm Jacob 👋
 
-Software engineer interested in **high performance C++**, **low-level systems**, and **AI**.
+I'm a senior at USC interested in **high-performance C++, low-level systems, and AI infrastructure**.
+
+I'm currently researching **GPU + FPGA hardware/software co-design for agentic LLM inference** at the USC FPGA/Parallel Computing Lab under Professor Prasanna.
+
+I've worked at multiple SWE internships at Capital One, Coursistant, and Advanced RF Technologies (ADRF). Outside of work and research, I enjoy building projects and competing at hackathons.
+
+If you're interested in systems, AI infrastructure, or building cool things, feel free to reach out!
 
 ## 🔗 Links
 
-- **Personal Website:** [jacob-a-cho.com](https://jacob-a-cho.com/)
+- **Website:** [jacob-a-cho.com](https://jacob-a-cho.com/)
 - **LinkedIn:** [jacob-a-cho](https://www.linkedin.com/in/jacob-a-cho/)
 - **Devpost:** [jacho15](https://devpost.com/jacho15)
 
 ## 💻 Experience
 
-- **Software Engineer** @ Capital One
-- **Software Engineer** @ Coursistant
-- **Software Engineer** @ Advanced RF Technologies
+- **Capital One** — SWE Intern
+- **Coursistant** — SWE Intern
+- **Advanced RF Technologies (ADRF)** — SWE Intern
 
 ## 🏆 Hackathon Wins
 
-- **1st IFM K2 AI & 1st MLH Vultr** — HackTech by Caltech 2026
-- **1st Overall** — SoCal Claude Builder Club Hackathon
-- **1st Place, DAIN AI Track** — SoCal Tech Week 2024
+- 🥇 **1st Place, IFM K2 AI Track & MLH Vultr Track** — HackTech @ Caltech 2026
+- 🥇 **1st Overall** — SoCal Claude Builder Club Hackathon
+- 🥇 **1st Place, DAIN AI Track** — SoCal Tech Week 2024
 
 ---
 
-*Always open to connecting, feel free to reach out!*
+*Always open to connecting and collaborating on interesting projects!*
