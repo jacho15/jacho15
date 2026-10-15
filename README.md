@@ -1,13 +1,9 @@
 
 # Hi, I'm Jacob 👋
 
-I'm a senior at USC interested in **high-performance C++, low-level systems, and AI infrastructure**.
+I'm a senior at USC currently researching **GPU + FPGA hardware/software co-design for agentic LLM inference**.
 
-I'm currently researching **GPU + FPGA hardware/software co-design for agentic LLM inference** at the USC FPGA/Parallel Computing Lab under Professor Prasanna.
-
-I've worked at multiple SWE internships at Capital One, Coursistant, and Advanced RF Technologies (ADRF). Outside of work and research, I enjoy building projects and competing at hackathons.
-
-If you're interested in systems, AI infrastructure, or building cool things, feel free to reach out!
+I've worked at multiple SWE internships, and outside of work and research, I enjoy building projects and competing at hackathons.
 
 ## 🔗 Links
 
